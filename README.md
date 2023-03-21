@@ -1,0 +1,2 @@
+# Residencia_de_Dados_Cubos_Condicionais_Python
+Residencia_de_Dados_Cubos_Condicionais_Python
